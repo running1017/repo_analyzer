@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "postman.postman-for-vscode",
+    "42crunch.vscode-openapi",
+    "esbenp.prettier-vscode",
+    "ms-python.mypy-type-checker",
+    "charliermarsh.ruff"
+  ]
+}
